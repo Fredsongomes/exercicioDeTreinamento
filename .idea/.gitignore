@@ -1,0 +1,23 @@
+# Configurações da IDE (IntelliJ)
+.idea/
+*.iml
+out/
+gen/
+
+# Ignorados padrão do IntelliJ que você já tinha
+/shelf/
+/workspace.xml
+/httpRequests/
+/queries/
+/dataSources/
+/dataSources.local.xml
+
+# Arquivos e diretórios de compilação do Maven
+target/
+.mvn/
+mvnw
+mvnw.cmd
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
